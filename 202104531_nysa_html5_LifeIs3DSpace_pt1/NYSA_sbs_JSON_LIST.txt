@@ -36,6 +36,6 @@
 
 ],
 "meta": {
-"url_base": "https://phila3d.github.io/202104531_nysa_html5_LifeIs3DSpace_pt1/"
+"url_base": "https://stereopicture3d.github.io/phila3d.github.io/202104531_nysa_html5_LifeIs3DSpace_pt1/"
 }
 }
