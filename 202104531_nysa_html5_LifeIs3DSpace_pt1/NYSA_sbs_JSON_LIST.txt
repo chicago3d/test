@@ -4,7 +4,6 @@
 { "url": "000_nysa_curtains.jpg" },
 { "url": "00_Intro_Logo_SBS.jpg" },
 { "url": "01_Rocket_1_SBS.jpg" },
-{ "url": "20_Atlantis_tiles_nozzles_SBS.jpg" },
 { "url": "21_Atlantis_LR_SBS.jpg" },
 { "url": "23_2D_camera3_SBS.jpg" },
 { "url": "24_2D_camera4_SBS.jpg" },
