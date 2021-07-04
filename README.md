@@ -1,2 +1,2 @@
-# phila3d.github.io
-# trying to use stereopix_rooms
+# chicago3d.github.io
+# trying to use HTML5 Gallery, Stereopix Gallery and Stereopix Rooms
