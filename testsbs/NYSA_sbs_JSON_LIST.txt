@@ -1,0 +1,23 @@
+
+{
+"media": [
+
+{ "url": "0100tom1.jpg" },
+{ "url": "0101tomscscclogo.jpg" },
+{ "url": "0102tomscityreflect.jpg" },
+{ "url": "0103tom2.jpg" },
+{ "url": "0200steven1.jpg" },
+{ "url": "0201stevenwhowdycu.jpg" },
+{ "url": "0202steven2.jpg" },
+{ "url": "0300ken1.jpg" },
+{ "url": "0301buckinghamfountain.jpg" },
+{ "url": "0302tribunetowerandwrigleybldg.jpg" },
+{ "url": "0303statestreet.jpg" },
+{ "url": "0304chemistryclass.jpg" },
+{ "url": "0305ken2.jpg" }
+
+],
+"meta": {
+"url_base": "https://chicago3d.github.io/testsbs/"
+}
+}
