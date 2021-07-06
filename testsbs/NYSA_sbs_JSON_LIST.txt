@@ -18,6 +18,6 @@
 
 ],
 "meta": {
-"url_base": "https://chicago3d.github.io/testsbs/"
+"url_base": "https://stereopicture3d.github.io/chicago3d.github.io/testsbs/"
 }
 }
