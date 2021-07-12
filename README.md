@@ -1,2 +1,2 @@
-# chicago3d.github.io
-# trying to use HTML5 Gallery, Stereopix Gallery and Stereopix Rooms
+# chicago3d
+# for use with HTML5 Gallery, Stereopix Gallery and Stereopix Rooms
