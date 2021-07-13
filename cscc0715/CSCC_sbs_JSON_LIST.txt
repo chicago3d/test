@@ -31,6 +31,6 @@
 
 ],
 "meta": {
-"url_base": "https://stereopicture3d.github.io/chicago3d/cscc0717/"
+"url_base": "https://stereopicture3d.github.io/chicago3d/cscc0715/"
 }
 }
