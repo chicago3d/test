@@ -1,0 +1,36 @@
+{
+"media": [
+
+{ "url": "0000tomscscclogo.jpg" },
+{ "url": "0100tom00.jpg" },
+{ "url": "0101dscf4289.jpg" },
+{ "url": "0102dscf4291.jpg" },
+{ "url": "0103dscf4306.jpg" },
+{ "url": "0104dscf4318.jpg" },
+{ "url": "0105dscf4327.jpg" },
+{ "url": "0106dscf4331.jpg" },
+{ "url": "0107tomxx.jpg" },
+{ "url": "0200steven00.jpg" },
+{ "url": "0201stevenwhowdycu.jpg" },
+{ "url": "0202stevenxx.jpg" },
+{ "url": "0300ken00.jpg" },
+{ "url": "0301statestreet1afinal.jpg" },
+{ "url": "0302statestreet3.jpg" },
+{ "url": "0303tribunetowerandwrigleybldg1.jpg" },
+{ "url": "0304wrigleybuilding.jpg" },
+{ "url": "0305chemistryclass.jpg" },
+{ "url": "0306kenxx.jpg" },
+{ "url": "0400russ00.jpg" },
+{ "url": "0401anita-dscf9402.jpg" },
+{ "url": "0402boat1238l,1257.jpg" },
+{ "url": "0403boat-pennant-dscf7302.jpg" },
+{ "url": "0404game5crowd-dscf7123-copy.jpg" },
+{ "url": "0405sbsdscf1463.jpg" },
+{ "url": "0406russxx.jpg" },
+{ "url": "9999tomscityreflect.jpg" }
+
+],
+"meta": {
+"url_base": "https://stereopicture3d.github.io/chicago3d/cscc0717/"
+}
+}
